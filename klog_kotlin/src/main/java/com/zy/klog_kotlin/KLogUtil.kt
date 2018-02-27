@@ -4,7 +4,7 @@ import android.text.TextUtils
 import android.util.Log
 
 /**
- * Created by fengjrfengjr on 2018/2/26.
+ * Created by zengyong on 2018/2/26.
  */
 object KLogUtil{
 

@@ -7,7 +7,7 @@ import java.io.OutputStream
 import java.io.OutputStreamWriter
 
 /**
- * Created by fengjrfengjr on 2018/2/26.
+ * Created by zengyong on 2018/2/26.
  */
 object FileLog{
 

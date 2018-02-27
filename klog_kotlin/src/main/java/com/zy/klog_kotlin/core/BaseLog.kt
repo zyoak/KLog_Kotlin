@@ -4,7 +4,7 @@ import android.util.Log
 import com.zy.klog_kotlin.KLog
 
 /**
- * Created by fengjrfengjr on 2018/2/26.
+ * Created by zengyong on 2018/2/26.
  */
 object BaseLog{
 

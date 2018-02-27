@@ -7,7 +7,7 @@ import org.json.JSONArray
 import org.json.JSONObject
 
 /**
- * Created by fengjrfengjr on 2018/2/26.
+ * Created by zengyong on 2018/2/26.
  */
 object JsonLog{
 
