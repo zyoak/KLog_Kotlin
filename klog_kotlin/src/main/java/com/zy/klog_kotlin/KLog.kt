@@ -13,16 +13,16 @@ import java.io.StringWriter
  */
 object KLog{
 
-    val NULL : String = "null"
-    val PARAM : String = "Param"
-    var SUFFIX : String = ".java"
-    val TAG_DEFAULT : String = "KLog"
+    private val NULL : String = "null"
+    private val PARAM : String = "Param"
+    private var SUFFIX : String = ".java"
+    private val TAG_DEFAULT : String = "KLog"
     val NULL_TIPS : String = "Log with null object"
-    var DEFAULT_MESSAGE : String = "execute"
+    private var DEFAULT_MESSAGE : String = "execute"
     val LINE_SEPARATOR : String = System.getProperty("line.separator")
     val JSON_INDENT : Int = 4
-    val STACK_TRACE_INDEX_4 : Int = 4
-    val STACK_TRACE_INDEX_5 : Int = 5
+    private val STACK_TRACE_INDEX_4 : Int = 4
+    private val STACK_TRACE_INDEX_5 : Int = 5
 
     val V : Int = 0x1
     val D : Int = 0x2
