@@ -1,5 +1,5 @@
 # KLog_Kotlin
-KLog_Kotlin是针对KLog日志库的kotlin实现，旨在学习Kotlin语言，在此感谢该作者对开源库对贡献！KLog库地址：https://github.com/ZhaoKaiQiang/KLog
+KLog_Kotlin是针对KLog日志库的kotlin实现，旨在学习Kotlin语言，在此感谢该作者对开源库的贡献！KLog库地址：https://github.com/ZhaoKaiQiang/KLog
 
 #### 1. How to use ?<br>
 
